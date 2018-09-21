@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ファイル '...\app\Http\Services\TemporaryImageService.php [feasibility-api]'" />
-    <option name="defaultScopeName" value="ファイル '...\app\Http\Services\TemporaryImageService.php [feasibility-api]'" />
-    <option name="SEARCH_SCOPE" value="ファイル '...\app\Http\Services\TemporaryImageService.php [feasibility-api]'" />
+    <option name="customScope" value="ProjectDefualt" />
+    <option name="defaultScopeName" value="ProjectDefualt" />
+    <option name="SEARCH_SCOPE" value="ProjectDefualt" />
   </component>
 </application>
