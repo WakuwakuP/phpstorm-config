@@ -1,0 +1,29 @@
+<profile version="1.0">
+  <option name="myName" value="Project Default" />
+  <inspection_tool class="PhpArrayFillCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpArrayFilterCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpArrayMapCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpAssignmentReplaceableWithOperatorAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CUSTOM_RULESET_PATH" value="$PROJECT_DIR$/phpcs.xml" />
+  </inspection_tool>
+  <inspection_tool class="PhpDisabledExtensionStubsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayFillInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayFilterInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpLoopCanBeConvertedToArrayMapInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="CHECK_CONSTANT" value="true" />
+    <option name="CHECK_FIELD" value="true" />
+    <option name="CHECK_CLASS_CONSTANT" value="true" />
+    <option name="SKIP_EMPTY_FUNCTION" value="false" />
+    <option name="SKIP_EMPTY_METHOD" value="false" />
+  </inspection_tool>
+  <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+</profile>
