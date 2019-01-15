@@ -5,6 +5,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
@@ -14,8 +17,16 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
