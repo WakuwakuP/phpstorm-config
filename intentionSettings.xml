@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/関数の PHPDoc を生成する" />
+  </component>
+</application>
