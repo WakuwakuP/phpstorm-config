@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="EstateMasterController" type="PHP" />
       <mapping pattern="StationMasterTableSeeder" type="PLAIN_TEXT" />
       <mapping pattern="MailMagazinSendService.php" type="PLAIN_TEXT" />
     </extensionMap>
