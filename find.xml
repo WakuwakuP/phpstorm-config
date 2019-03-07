@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="ファイル '...\app\Http\Services\EstateList\EstateOpenSiteService.php [nestate-api]'" />
-    <option name="defaultScopeName" value="ファイル '...\app\Http\Services\EstateList\EstateOpenSiteService.php [nestate-api]'" />
+    <option name="customScope" value="ProjectDefualt" />
+    <option name="defaultScopeName" value="ProjectDefualt" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="ファイル '...\app\Http\Services\EstateList\EstateOpenSiteService.php [nestate-api]'" />
+    <option name="SEARCH_SCOPE" value="ProjectDefualt" />
   </component>
 </application>
