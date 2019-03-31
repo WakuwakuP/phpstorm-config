@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellIntegration" value="false" />
-    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
+    <option name="myShellPath" value="C:\Users\naoki\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe" />
   </component>
 </application>
