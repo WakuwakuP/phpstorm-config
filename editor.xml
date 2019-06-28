@@ -4,6 +4,16 @@
     <option name="FONT_FAMILY" value="Ricty Diminished Discord" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern=".*\b藤澤\b.*" />
+    <filter name="藤澤">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>

@@ -4,6 +4,7 @@
       <mapping pattern="EstateMasterController" type="PHP" />
       <mapping pattern="StationMasterTableSeeder" type="PLAIN_TEXT" />
       <mapping pattern="MailMagazinSendService.php" type="PLAIN_TEXT" />
+      <mapping ext="sql_" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
