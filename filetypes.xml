@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="EstateMasterController" type="PHP" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="StationMasterTableSeeder" type="PLAIN_TEXT" />
       <mapping pattern="MailMagazinSendService.php" type="PLAIN_TEXT" />
       <mapping ext="sql_" type="PLAIN_TEXT" />
